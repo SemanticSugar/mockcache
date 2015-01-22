@@ -325,7 +325,7 @@ class Client(object):
         self.dictionary.clear()
 
     def get_stats():
-        return [('mockcache', { }]
+        return [('mockcache', { })]
 
     def __repr__(self):
         modname = "" if __name__ == "__main__" else __name__ + "."
