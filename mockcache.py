@@ -161,7 +161,7 @@ __maintainer__ = __author__
 __email__ = "dahlia@lunant.com"
 __copyright__ = "Copyright (c) 2010 Lunant <http://lunant.com/>"
 __license__ = "MIT License"
-__version__ = "1.0.1"
+__version__ = "1.0.1.1"
 
 
 SERVER_MAX_KEY_LENGTH = 250
