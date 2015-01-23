@@ -324,7 +324,7 @@ class Client(object):
         """Clear the internal dictionary"""
         self.dictionary.clear()
 
-    def get_stats():
+    def get_stats(self):
         return [('mockcache', { })]
 
     def __repr__(self):
